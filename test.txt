@@ -14,3 +14,5 @@ Change in master branch
 Changes for Branch1
 
 Master changes
+Change in master branch
+
